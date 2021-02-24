@@ -66,6 +66,7 @@
   }
 
   .u-section-1 .u-group-1 {
+    min-height: 841px;
     margin-left: 117px;
   }
 
@@ -105,6 +106,7 @@
 
   .u-section-1 .u-group-1 {
     width: 720px;
+    min-height: 780px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -152,6 +154,7 @@
 
   .u-section-1 .u-group-1 {
     width: 540px;
+    min-height: 744px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -212,6 +215,7 @@
 
   .u-section-1 .u-group-1 {
     width: 340px;
+    min-height: 774px;
   }
 
   .u-section-1 .u-shape-1 {
